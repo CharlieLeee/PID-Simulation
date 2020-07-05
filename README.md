@@ -7,7 +7,7 @@ and https://www.bilibili.com/video/BV1ep4y1U7ME.
 
 ![image-20200705232521929](figure/image-20200705232521929.png)
 
-![image-20200705232542967](/home/charlie/PID-Simulation/figure/image-20200705232542967.png)
+![image-20200705232542967](figure/image-20200705232542967.png)
 
 ### Comparing with Simulink
 
