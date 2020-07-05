@@ -30,7 +30,7 @@ and https://www.bilibili.com/video/BV1ep4y1U7ME.
 
 ```bash
 git clone https://github.com/CharlieLeee/PID-Simulation
-cd build
+mkdir build && cd build
 qmake ../pid_control.pro && make
 ./PID-sim
 ```
